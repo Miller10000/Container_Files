@@ -1,0 +1,49 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Black's Box's",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "BRTX_SeaChest_Fallout",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BRTX_SeaChest_Box0",
+              "BRTX_SeaChest_Box1",
+              "BRTX_SeaChest_Box2",
+              "BRTX_SeaChest_Box3",
+              "BRTX_SeaChest_Box4",
+              "BRTX_SeaChest_Box5",
+              "BRTX_SeaChest_Box6",
+              "BRTX_SeaChest_Box7",
+              "BRTX_SeaChest_Box8",
+              "BRTX_SeaChest_Box9",
+              "BRTX_SeaChest_Box10",
+              "BRTX_SeaChest_Box11",
+              "BRTX_SeaChest_Box12",
+              "BRTX_SeaChest_Box13",
+              "BRTX_SeaChest_Box14",
+              "BRTX_SeaChest_Box15",
+              "BRTX_SeaChest_Box16",
+              "BRTX_SeaChest_Box17",
+              "BRTX_SeaChest_Box18",
+              "BRTX_SeaChest_Box19",
+              "BRTX_SeaChest_Box20",
+              "BRTX_SeaChest_Box20A",
+              "BRTX_SeaChest_Box20B",
+              "BRTX_SeaChest_Box21",
+              "BRTX_SeaChest_Box22",
+              "BRTX_SeaChest_Box25",
+              "BRTX_SeaChest_Box25A"
+            ]
+        }
+    ]
+}
